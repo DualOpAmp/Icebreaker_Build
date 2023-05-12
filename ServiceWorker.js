@@ -1,9 +1,9 @@
 const cacheName = "Mt. Carmel Games-Icebreaker-0.21";
 const contentToCache = [
-    "Build/5-12-23.loader.js",
-    "Build/5-12-23.framework.js.gz",
-    "Build/5-12-23.data.gz",
-    "Build/5-12-23.wasm.gz",
+    "Build/Web.loader.js",
+    "Build/Web.framework.js",
+    "Build/Web.data",
+    "Build/Web.wasm",
     "TemplateData/style.css"
 
 ];
